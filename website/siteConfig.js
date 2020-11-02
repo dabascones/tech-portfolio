@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Daniel Bascones Campusano', // Title for your website.
-    tagline: 'Self-started, motivated and eager to keep learning.',
+    tagline: 'Self-starter, motivated and eager to keep learning.',
     profilePhoto: 'img/profile.png',
     url: 'https://dabascones.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
